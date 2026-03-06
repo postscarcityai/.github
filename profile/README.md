@@ -22,7 +22,7 @@ Every tool name is exactly five letters. Every repo is MIT licensed.
 | Tool | What It Does | Status |
 |------|-------------|--------|
 | [**ascii**](https://github.com/postscarcityai/ascii) | Audio-reactive ASCII visualizer and art generator | Shipped |
-| **forge** | AI image and video generation | Coming soon |
+| [**forge**](https://github.com/postscarcityai/forge) | AI image and video generation platform | Shipped |
 | **cover** | Site template that personalizes on first run | Coming soon |
 | **recon** | Contact scraper and lead finder | Coming soon |
 | **close** | Contract and CRM engine | Coming soon |
