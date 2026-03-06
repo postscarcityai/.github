@@ -7,17 +7,17 @@
                                                     |___/             
 ```
 
-### Unlock Abundance.
+### Code is Liquid.
 
-PostScarcity AI is an open source toolkit for solo operators. Each tool does one thing exceptionally well. Together they cover the full lifecycle of creative production -- from finding contacts to closing contracts.
+PostScarcity AI releases open source foundations for building with AI. Each repo is a working application -- not a boilerplate, not a tutorial. Clone it, run it, and start building on top of it.
 
-One person running the full suite operates like a full studio.
+These are starting points designed to be changed. Fork one, strip it down, wire it into your stack, and ship something. The code is yours the moment you clone it.
 
 ---
 
-### The Suite
+### Repos
 
-Every tool name is exactly five letters. Every tool is MIT licensed.
+Every tool name is exactly five letters. Every repo is MIT licensed.
 
 | Tool | What It Does | Status |
 |------|-------------|--------|
@@ -44,7 +44,7 @@ Every tool name is exactly five letters. Every tool is MIT licensed.
 npx @postscarcityai/cli
 ```
 
-One command scaffolds any tool. Pick a tool, answer a few questions, and you have a personalized, ready-to-run project.
+One command scaffolds any tool. Pick a repo, answer a few questions, and you have a personalized, running project.
 
 ```bash
 psai ascii       # Scaffold the ASCII visualizer
@@ -54,24 +54,18 @@ psai list        # See all available tools
 
 ---
 
-### Philosophy
+### Why open source?
 
-**Open Source First** -- The value is not in the code. It is in what the code enables.
+AI is moving fast. Most teams are stuck figuring out the scaffolding before they ever get to the interesting part. These repos skip that. Each one is a working app with real architecture, real patterns, and a clean codebase you can read in an afternoon.
 
-**One Tool, One Job** -- Scope is a feature. No tool does more than its name implies.
-
-**Leveraged Work** -- Every automation removes a decision that should not require one.
-
-**Code is Liquid** -- Tools evolve, get refactored, and are replaced when something better exists.
+Take what works. Throw away what doesn't. Code is liquid -- it should flow into whatever shape your problem needs.
 
 ---
 
-### Get Involved
+### Contribute
 
-Every repo accepts contributions. Fork anything. Break anything. Make it yours.
-
-If you build something that fits the suite, open an issue. Five letters, one job, MIT license.
+Every repo accepts pull requests. Fork anything. If you build something that fits -- five letters, one job, MIT license -- open an issue.
 
 ---
 
-*PostScarcity AI. Unlock Abundance.*
+*PostScarcity AI*
