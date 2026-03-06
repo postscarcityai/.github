@@ -7,7 +7,7 @@
                                                     |___/             
 ```
 
-### Code is Liquid.
+### Unlock Abundance.
 
 PostScarcity AI releases open source foundations for building with AI. Each repo is a working application -- not a boilerplate, not a tutorial. Clone it, run it, and start building on top of it.
 
@@ -54,11 +54,11 @@ psai list        # See all available tools
 
 ---
 
-### Why open source?
+### Code is Liquid
 
-AI is moving fast. Most teams are stuck figuring out the scaffolding before they ever get to the interesting part. These repos skip that. Each one is a working app with real architecture, real patterns, and a clean codebase you can read in an afternoon.
+Solutions are not static. These repos evolve, get refactored, and are replaced when something better exists. That is by design. AI is moving fast and the scaffolding should move with it.
 
-Take what works. Throw away what doesn't. Code is liquid -- it should flow into whatever shape your problem needs.
+Take what works. Throw away what doesn't. The code should flow into whatever shape your problem needs.
 
 ---
 
@@ -68,4 +68,4 @@ Every repo accepts pull requests. Fork anything. If you build something that fit
 
 ---
 
-*PostScarcity AI*
+*PostScarcity AI. Unlock Abundance.*
