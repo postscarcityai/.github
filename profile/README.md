@@ -24,7 +24,7 @@ Every tool name is exactly five letters. Every repo is MIT licensed.
 | [**ascii**](https://github.com/postscarcityai/ascii) | Audio-reactive ASCII visualizer and art generator | Shipped |
 | [**forge**](https://github.com/postscarcityai/forge) | AI image and video generation platform | Shipped |
 | [**close**](https://github.com/postscarcityai/close) | Contract management CRM with Google Docs generation | Shipped |
-| **cover** | Site template that personalizes on first run | Coming soon |
+| [**cover**](https://github.com/postscarcityai/cover) | Site template that personalizes on first run | Shipped |
 | **recon** | Contact scraper and lead finder | Coming soon |
 | **brief** | PDF-to-presentation builder | Coming soon |
 | **relay** | Newsletter and broadcast platform | Coming soon |
@@ -50,6 +50,7 @@ One command scaffolds any tool. Pick a repo, answer a few questions, and you hav
 psai ascii       # Scaffold the ASCII visualizer
 psai forge       # Scaffold the image generator
 psai close       # Scaffold the contract CRM
+psai cover       # Scaffold the site template
 psai list        # See all available tools
 ```
 
