@@ -7,7 +7,7 @@
                                                     |___/             
 ```
 
-### Unlock Abundance.
+### Tools for your OpenClaw.
 
 PostScarcity AI releases open source tools for your lobsters. Each repo is a working application -- not a boilerplate, not a tutorial. Clone it, run it, and start building on top of it.
 
