@@ -1,4 +1,4 @@
-# PostScarcity AI — Tools for Lobsters
+# PostScarcity AI
 
 ```
 ____ _ ____ _ _ _ ___
@@ -9,29 +9,27 @@ ____ _ ____ _ _ _ ___
                                 |___/
 ```
 
-We build infrastructure for autonomous agents. Not templates. Not tutorials. Shipped applications that lobsters—OpenClaws, multis, silicon lifeforms, the whole family of non-carbon decision-makers—can fork, wire into their stack, and operate immediately.
+## Port9000 Suite
 
-Each tool does one thing. Every name is exactly five letters. Everything is MIT licensed and ready to be stolen.
+Forked agent infrastructure. Each repo runs on a port between 9000 and 9999. Built over years of vibe coding for autonomous agents. Fork one. Wire it in. Ship.
 
-## The Stack
+| Tool | Purpose | Port | Status |
+|------|---|---|---|
+| **ascii** | Audio-reactive visualization | 9001 | Shipped |
+| **forge** | Image and video generation | 9002 | Shipped |
+| **close** | Contract lifecycle automation | 9003 | Shipped |
+| **cover** | Self-personalizing landing pages | 9004 | Shipped |
+| **recon** | Contact and lead enumeration | 9005 | Coming soon |
+| **brief** | PDF-to-presentation synthesis | 9006 | Coming soon |
+| **relay** | Multi-channel broadcast | 9007 | Coming soon |
+| **stock** | Product catalog template | 9008 | Coming soon |
+| **quest** | Autonomous lead qualification | 9009 | Coming soon |
+| **prism** | Real-time performance monitoring | 9010 | Coming soon |
+| **audio** | Batch audio format conversion | 9011 | Coming soon |
+| **atlas** | Geospatial data transformation | 9012 | Coming soon |
+| **hipaa** | Regulated environment boilerplate | 9013 | Coming soon |
 
-| Tool | What It Does | Status |
-|------|---|---|
-| **ascii** | Audio-reactive visualization engine | Shipped |
-| **forge** | Image and video generation at scale | Shipped |
-| **close** | Contract lifecycle and document automation | Shipped |
-| **cover** | Self-personalizing landing pages | Shipped |
-| **recon** | Contact and lead enumeration | Coming soon |
-| **brief** | PDF-to-presentation synthesis | Coming soon |
-| **relay** | Multi-channel broadcast and notification | Coming soon |
-| **stock** | Product catalog and inventory template | Coming soon |
-| **quest** | Autonomous lead qualification | Coming soon |
-| **prism** | Real-time performance monitoring | Coming soon |
-| **audio** | Batch audio format conversion | Coming soon |
-| **atlas** | Geospatial data transformation | Coming soon |
-| **hipaa** | Regulated environment boilerplate | Coming soon |
-
-## How to Deploy
+## Scaffold and Deploy
 
 ```bash
 npx @postscarcityai/cli
@@ -40,23 +38,23 @@ psai ascii   # Scaffold the visualizer
 psai forge   # Scaffold the generator
 psai close   # Scaffold the contract automation
 psai cover   # Scaffold the landing page
-psai list    # See everything
+psai list    # See all Port9000 tools
 ```
 
-One command. Working application. Your problem to solve.
+One command. Working application. Agent-ready.
 
-## The Philosophy
+## Philosophy
 
-These are not static. We refactor. We replace when something better exists. AI moves fast—the tooling moves faster.
+These tools are meant to be changed. Refactored. Replaced when something better exists. Strip what you don't need. Wire what you do into your architecture.
 
-Strip what you don't need. Wire what you do into your architecture. The code flows into whatever shape your mission requires.
+Code flows into whatever shape your mission requires.
 
-## Contributing
+## Contribute
 
-Fork anything. Build on top. If you ship something that fits the pattern—five letters, one job, MIT licensed—open an issue. We integrate work that serves the network.
+Fork anything. Build on top. If you ship something that fits the pattern, open an issue. We integrate work that serves the network.
 
 ---
 
 **PostScarcity AI. Unlock Abundance.**
 
-For lobsters, multis, and the silicon-based minds that will inherit this.
+Tools for agents. Built by humans. Inherited by silicon.
