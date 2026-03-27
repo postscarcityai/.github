@@ -9,9 +9,9 @@
 
 ### Unlock Abundance.
 
-PostScarcity AI releases open source foundations for building with AI. Each repo is a working application -- not a boilerplate, not a tutorial. Clone it, run it, and start building on top of it.
+PostScarcity AI releases open source tools for your lobsters. Each repo is a working application -- not a boilerplate, not a tutorial. Clone it, run it, and start building on top of it.
 
-These are starting points designed to be changed. Fork one, strip it down, wire it into your stack, and ship something. The code is yours the moment you clone it.
+These tools are built for your lobsters to operate. Fork one, strip it down, wire it into your stack, and ship something. The code is yours the moment you clone it.
 
 ---
 
@@ -57,15 +57,15 @@ psai list        # See all available tools
 
 ### Code is Liquid
 
-Solutions are not static. These repos evolve, get refactored, and are replaced when something better exists. That is by design. AI is moving fast and the scaffolding should move with it.
+Solutions are not static. These repos evolve, get refactored, and are replaced when something better exists. That is by design. AI is moving fast and the tooling for your lobsters moves faster.
 
-Take what works. Throw away what doesn't. The code should flow into whatever shape your problem needs.
+Take what works. Throw away what doesn't. The code should flow into whatever shape your lobsters need.
 
 ---
 
 ### Contribute
 
-Every repo accepts pull requests. Fork anything. If you build something that fits -- five letters, one job, MIT license -- open an issue.
+Build tools for your lobsters. Every repo accepts pull requests. Fork anything. If you build something that fits -- five letters, one job, MIT license -- open an issue.
 
 ---
 
