@@ -1,60 +1,72 @@
-# PostScarcity AI
-
 ```
-____ _ ____ _ _ _ ___
-| _ \ ___ ___| |_/ ___| ___ __ _ _ __ ___(_) |_ _ _ / \ |_ _|
-| |_) / _ \/ __| __\___ \ / __/ _` | '__/ __| | __| | | |/ _ \ | |
-| __/ (_) \__ \ |_ ___) | (_| (_| | | | (__| | |_| |_| / ___ \ | |
-|_| \___/|___/\__|____/ \___\__,_|_| \___|_|\__|\___|/_/ \_\___| 
-                                |___/
+ ____           _   ____                     _ _            _    ___ 
+|  _ \ ___  ___| |_/ ___|  ___ __ _ _ __ ___(_) |_ _   _  / \  |_ _|
+| |_) / _ \/ __| __\___ \ / __/ _` | '__/ __| | __| | | |/ _ \  | | 
+|  __/ (_) \__ \ |_ ___) | (_| (_| | | | (__| | |_| |_| / ___ \ | | 
+|_|   \___/|___/\__|____/ \___\__,_|_|  \___|_|\__|\__, /_/   \_\___|
+                                                    |___/             
 ```
 
-Port9000 Suite
+### Unlock Abundance.
 
-Forked agent infrastructure. Each repo runs on a port between 9000 and 9999. Built over years of vibe coding for autonomous agents. Fork one. Wire it in. Ship.
+PostScarcity AI releases open source foundations for building with AI. Each repo is a working application -- not a boilerplate, not a tutorial. Clone it, run it, and start building on top of it.
 
-| Tool | Purpose | Port | Status |
-|------|---|---|---|
-| **ascii** | Audio-reactive visualization | 9001 | Shipped |
-| **forge** | Image and video generation | 9002 | Shipped |
-| **close** | Contract lifecycle automation | 9003 | Shipped |
-| **cover** | Self-personalizing landing pages | 9004 | Shipped |
-| **recon** | Contact and lead enumeration | 9005 | Coming soon |
-| **brief** | PDF-to-presentation synthesis | 9006 | Coming soon |
-| **relay** | Multi-channel broadcast | 9007 | Coming soon |
-| **stock** | Product catalog template | 9008 | Coming soon |
-| **quest** | Autonomous lead qualification | 9009 | Coming soon |
-| **prism** | Real-time performance monitoring | 9010 | Coming soon |
-| **audio** | Batch audio format conversion | 9011 | Coming soon |
-| **atlas** | Geospatial data transformation | 9012 | Coming soon |
-| **hipaa** | Regulated environment boilerplate | 9013 | Coming soon |
-
-## Scaffold and Deploy
-
-```bash
-npx @postscarcityai/cli
-
-psai ascii   # Scaffold the visualizer
-psai forge   # Scaffold the generator
-psai close   # Scaffold the contract automation
-psai cover   # Scaffold the landing page
-psai list    # See all Port9000 tools
-```
-
-One command. Working application. Agent-ready.
-
-## Philosophy
-
-These tools are meant to be changed. Refactored. Replaced when something better exists. Strip what you don't need. Wire what you do into your architecture.
-
-Code flows into whatever shape your mission requires.
-
-## Contribute
-
-Fork anything. Build on top. If you ship something that fits the pattern, open an issue. We integrate work that serves the network.
+These are starting points designed to be changed. Fork one, strip it down, wire it into your stack, and ship something. The code is yours the moment you clone it.
 
 ---
 
-**PostScarcity AI. Unlock Abundance.**
+### Repos
 
-Tools for agents. Built by humans. Inherited by silicon.
+Every tool name is exactly five letters. Every repo is MIT licensed.
+
+| Tool | What It Does | Status |
+|------|-------------|--------|
+| [**ascii**](https://github.com/postscarcityai/ascii) | Audio-reactive ASCII visualizer and art generator | Shipped |
+| [**forge**](https://github.com/postscarcityai/forge) | AI image and video generation platform | Shipped |
+| [**close**](https://github.com/postscarcityai/close) | Contract management CRM with Google Docs generation | Shipped |
+| **cover** | Site template that personalizes on first run | Coming soon |
+| **recon** | Contact scraper and lead finder | Coming soon |
+| **brief** | PDF-to-presentation builder | Coming soon |
+| **relay** | Newsletter and broadcast platform | Coming soon |
+| **stock** | Product catalog template | Coming soon |
+| **quest** | Gamified lead qualification | Coming soon |
+| **prism** | Live visual performance tool | Coming soon |
+| **audio** | Batch WAV-to-MP3 converter | Coming soon |
+| **atlas** | KML-to-GPS converter | Coming soon |
+| **hipaa** | HIPAA-compliant app boilerplate | Coming soon |
+| **pitch** | TBD | Planned |
+
+---
+
+### The CLI
+
+```bash
+npx @postscarcityai/cli
+```
+
+One command scaffolds any tool. Pick a repo, answer a few questions, and you have a personalized, running project.
+
+```bash
+psai ascii       # Scaffold the ASCII visualizer
+psai forge       # Scaffold the image generator
+psai close       # Scaffold the contract CRM
+psai list        # See all available tools
+```
+
+---
+
+### Code is Liquid
+
+Solutions are not static. These repos evolve, get refactored, and are replaced when something better exists. That is by design. AI is moving fast and the scaffolding should move with it.
+
+Take what works. Throw away what doesn't. The code should flow into whatever shape your problem needs.
+
+---
+
+### Contribute
+
+Every repo accepts pull requests. Fork anything. If you build something that fits -- five letters, one job, MIT license -- open an issue.
+
+---
+
+*PostScarcity AI. Unlock Abundance.*
