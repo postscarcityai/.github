@@ -11,7 +11,7 @@ PostScarcity AI is an AI studio in Palm Beach. We train teams, find where AI pay
 
 ### What we are building
 
-- **[Yea](https://postscarcity.ai/yea)**, Your Everything App. One app for a whole business: a customer side, an admin side and an agent on every screen. Every business gets its own copy, on its own cloud, in its own name. Live by day 30, yours by day 90.
+- **[Yea](https://postscarcity.ai/yea)**, Your Everything App. A theory, not a product: own your stack soup to nuts, because AI now maintains it and the cost of good engineering keeps falling. One app for a whole business, a marketing site and a back office in one repo, with an agent on every screen. Live by day 30, yours by day 90.
 - **[Yui](https://github.com/postscarcityai/yui)**. Your agents, with a screen they can draw on. iPhone, Mac, web and more, open source. Lives at [yuigui.com](https://www.yuigui.com).
 
 ### Code is liquid
