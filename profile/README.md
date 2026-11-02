@@ -60,19 +60,6 @@ It runs a six-question interview, shows you your app's left nav, then starts the
 
 ---
 
-### Sunset
-
-The open source tools we shipped here are sunset. Their best parts now live inside Yea as modules. The repos stay up for reference and get no new work.
-
-| Repo | Was | Lives on in Yea as |
-|------|-----|--------------------|
-| [cover](https://github.com/postscarcityai/cover) | Site template that personalizes on first run | Site |
-| [forge](https://github.com/postscarcityai/forge) | AI image and video generation | Studio, Library |
-| [close](https://github.com/postscarcityai/close) | Contract CRM with Google Docs generation | Pipeline, Documents |
-| [ascii](https://github.com/postscarcityai/ascii) | Audio-reactive ASCII visualizer | Retired |
-
----
-
 ### Code is liquid
 
 Software is not static anymore. Agents write it from a clear spec, for one business at a time, and rewrite it when something better exists. That is the point. The value is in the orchestration, not the license.
